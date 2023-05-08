@@ -11,3 +11,12 @@
     flex-direction: column;
     gap: 10px;
 }
+
+.advice {
+    text-align: center;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
